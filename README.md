@@ -1,18 +1,15 @@
+🛡️ Cyber Shield: AI-Powered Cyber Threat Intelligence & Analysis Suite
 
-# 🛡️ Cyber Shield: AI-Powered Cyber Threat Intelligence & Analysis Suite
+Python Framework ML Extension
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Framework-Flask-000000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Extension](https://img.shields.io/badge/Browser%20Extension-Manifest%20V3-4285F4.svg?style=flat&logo=googlechrome&logoColor=white)](https://developer.chrome.com/)
+An All-in-One Multi-Layered AI Cybersecurity Suite designed for real-time threat
+intelligence and vulnerability assessment. The system detects and mitigates
+credential compromises, phishing/typo-squatting domains, and zero-day executable
+malware using hybrid statistical machine learning, heuristic rules, and
+cryptographic verification models.
 
-An **All-in-One Multi-Layered AI Cybersecurity Suite** designed for real-time threat intelligence and vulnerability assessment. The system detects and mitigates credential compromises, phishing/typo-squatting domains, and zero-day executable malware using hybrid statistical machine learning, heuristic rules, and cryptographic verification models.
+🏗️ Architecture Flow
 
----
-
-## 🏗️ Architecture Flow
-
-```mermaid
 flowchart TD
     User["🖥️ User / Chrome Extension (Manifest V3)"]
     
@@ -105,4 +102,4 @@ Bibi Sarwat Ali Aziz
 Computer Science Graduate | AI & Full-Stack Engineer
 
   - 🔗 LinkedIn Profile
-  
+    
