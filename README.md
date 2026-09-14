@@ -67,21 +67,20 @@ An **All-in-One Multi-Layered AI Cybersecurity Suite** designed for real-time th
 
 ## 🚀 Quickstart Guide
 
-### 1. Clone the repository
+1. **Clone the repository:**
 ```bash
 git clone https://github.com/Bibisarwataliaziz/AI-powered-cyber-threat-analyzer.git
 cd AI-powered-cyber-threat-analyzer
 
-2. Install dependencies
+2. Install dependencies:
 code
 Bash
 pip install -r requirements.txt
-3. Run the application
+3. Run the application:
 code
 Bash
 python app.py
-Access the portal locally at http://127.0.0.1:5000/
 👤 Author
 Bibi Sarwat Ali Aziz
 Computer Science Graduate | AI & Full-Stack Engineer
-🔗 LinkedIn: bibisarwataliaziz
+🔗 LinkedIn Profile
